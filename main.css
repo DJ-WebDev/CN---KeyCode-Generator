@@ -24,13 +24,13 @@ h1 {
   font-family:Xyz;
   font-size: 500%;
   letter-spacing: .4rem;
-  color:rgb(206, 177, 13);
+  color:#E1D197;
 }
 
 #header {
   font-size: 60px;
   letter-spacing: .4rem;
-  color: rgb(206, 177, 13);
+  color:#E1D197;
 }
 
 #number {
@@ -44,28 +44,28 @@ h1 {
 #numDisplay {
   font-size: 30px;
   letter-spacing: .4rem;
-  color: rgb(206, 177, 13)
+  color:#E1D197;
 }
 
 #keyDisplay {
   font-size: 30px;
   letter-spacing: .4rem;
-  color: silver
+  color: #D0D1D1;
 }
 #codeDisplay {
   font-size: 30px;
   letter-spacing: .4rem;
-  color: silver
+  color: #D0D1D1;
 }
 #whichDisplay {
   font-size: 40px;
   letter-spacing: .4rem;
-  color: silver
+  color: #D0D1D1;
 }
 #locateDisplay {
   font-size: 40px;
   letter-spacing: .4rem;
-  color: silver
+  color: #D0D1D1;
 }
 
 
@@ -102,10 +102,10 @@ h1 {
 #desc {
   font-size: 40px;
   letter-spacing: .4rem;
-  color: gold
+  color:#A58031;
 }
 
 .pressedBtn {
   font-size: 50px;
-  color: rgb(233, 13, 185)
+  color: #D0D1D1;
 }
