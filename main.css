@@ -26,6 +26,12 @@ h1 {
   letter-spacing: .4rem;
   color:#E1D197;
 }
+#splash {
+  font-family:Xyz;
+  letter-spacing: .4rem;
+  font-size: 1000%;
+  color:#A58031;
+}
 
 #header {
   font-size: 60px;
