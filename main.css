@@ -26,8 +26,9 @@ h1 {
   letter-spacing: .4rem;
   color:rgb(206, 177, 13);
 }
+
 #header {
-  font-size: 50px;
+  font-size: 60px;
   letter-spacing: .4rem;
   color: rgb(206, 177, 13);
 }
@@ -61,6 +62,11 @@ h1 {
   letter-spacing: .4rem;
   color: silver
 }
+#locateDisplay {
+  font-size: 40px;
+  letter-spacing: .4rem;
+  color: silver
+}
 
 
 #container {
@@ -74,7 +80,8 @@ h1 {
 
 #code,
 #key,
-#which {
+#which,
+#locate {
   flex-basis: 1;
   flex-grow: 1;
   height: 100%;
@@ -87,7 +94,8 @@ h1 {
 
 #codeDisplay,
 #keyDisplay,
-#whichDisplay {
+#whichDisplay
+#locateDisplay{
   margin-bottom: 10px;
 }
 
@@ -98,6 +106,6 @@ h1 {
 }
 
 .pressedBtn {
-  font-size: 30px;
-  color: silver;
+  font-size: 50px;
+  color: rgb(233, 13, 185)
 }
